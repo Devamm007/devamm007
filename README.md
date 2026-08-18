@@ -65,9 +65,8 @@ devam = {
 | Introduction to Python | ✅ |
 
 </details>
-
 <details>
-<summary><b>🔄 Diploma Level — Almost Completed</b></summary>
+<summary><b>✅ Diploma Level — Completed</b></summary>
 <br>
 
 **Diploma in Data Science + Diploma in Programming**
@@ -84,10 +83,24 @@ devam = {
 | System Commands | ✅ |
 | Introduction to Java | ✅ |
 | Tools in Data Science | ✅ |
-| Data Structures & Algorithms using Python | 🔄 |
-| ML Project | 🔄 |
-| Deep Learning Project | 🔄 |
+| Data Structures & Algorithms using Python | ✅ |
+| ML Project | ✅ |
+| Deep Learning Project | ✅ |
 
+</details>
+
+<details>
+<summary><b>🔄 Degree Level — Ongoing</b></summary>
+<br>
+
+**Degree Level**
+
+| Subject | Status |
+|---|---|
+| Software Engineerinng | 🔄 |
+| Software Testing | 🔄 |
+| Deep Learning | 🔄 |
+| Strategies for Professional Growth | 🔄 |
 </details>
 
 ---
@@ -132,9 +145,9 @@ devam = {
 
 | Status | Certification | Provider | Topics |
 |---|---|---|---|
-| 🔄 In Progress | International Business | NPTEL · 12 Weeks | Global Markets, Trade |
-| 🔄 In Progress | Advanced Financial Instruments for Sustainable Business & Decentralised Markets | NPTEL · 12 Weeks | DeFi, Financial Instruments |
-| 🔄 In Progress | Blockchain and Its Applications | NPTEL · 12 Weeks | Blockchain, Smart Contracts |
+| ✅ Completed | International Business | NPTEL · 12 Weeks · May 2026 | Global Markets, Trade · [View ↗](https://nptel.ac.in/noc/E_Certificate/NOC26MG70S35620368804277905) |
+| ✅ Completed | Advanced Financial Instruments for Sustainable Business & Decentralised Markets | NPTEL · 12 Weeks · May 2026 | DeFi, Financial Instruments · [View ↗](https://nptel.ac.in/noc/E_Certificate/NOC26MG21S55620208604277905) |
+| ✅ Completed | Blockchain and Its Applications | NPTEL · 12 Weeks · May 2026 | Blockchain, Smart Contracts · [View ↗](https://nptel.ac.in/noc/E_Certificate/NOC26CS34S75620018604277905) |
 | ✅ Completed | **Ethical Hacking** | NPTEL · 12 Weeks · Nov 2025 | Network Security, Penetration Testing, Cryptography · [View ↗](https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs142/Course/NPTEL25CS142S105820136210292133.pdf) |
 | ✅ Completed | **Intro to Quantum Computing: Algorithms & Qiskit** | NPTEL · 4 Weeks · Sep 2025 | Quantum Algorithms, Qiskit · [View ↗](https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs95/Course/NPTEL25CS95S43700327009212679.pdf) |
 | ✅ Completed | **Scientific Computing with Python** | freeCodeCamp · ~300 hrs · Dec 2024 | Python, Algorithms · [View ↗](https://freecodecamp.org/certification/devam_shah/scientific-computing-with-python-v7) |
